@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "locationName": "Marina Bay Sands",
+    "address": "2 Bayfront Avenue B2-06 Singapore 0189072",
+    "hotline": "1800 699 2824",
+    "storeHours":
+      "Mon 10:00am - 10:00pm \n Tue 10:00am - 10:00pm \n  Wed 10:00am - 10:00pm \n Thu 10:00am - 10:00pm \n Fri 10:00am - 10:00pm \n Sat 10:00am - 10:00pm \n Sun 10:00am - 10:00pm"
+  },
+  {
+    "id": 2,
+    "locationName": "Orchard Road",
+    "address": "270 Orchard Road Singapore 238857",
+    "hotline": "1800 699 2824",
+    "storeHours":
+      "Mon 10:00am - 10:00pm \n Tue 10:00am - 10:00pm \n  Wed 10:00am - 10:00pm \n Thu 10:00am - 10:00pm \n Fri 10:00am - 10:00pm \n Sat 10:00am - 10:00pm \n Sun 10:00am - 10:00pm"
+  }
+]

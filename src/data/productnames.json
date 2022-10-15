@@ -1,0 +1,20 @@
+[
+    { "id": 1, "name": "iPad Wi-Fi + Cellular", "model": ["A0352", "A0354"]},
+    { "id": 2, "name": "iPad Wi-Fi Only", "model": ["A0351", "A0353"]},
+    { "id": 3, "name": "iPad Air Wi-Fi + Cellular", "model": ["A1476", "A1477"]},
+    { "id": 4, "name": "iPad Air Wi-Fi Only", "model": ["A1474", "A1475"]},
+    { "id": 5, "name": "iPad Mini Wi-Fi + Cellular", "model": ["A3812", "A3813"]},
+    { "id": 6, "name": "iPad Mini Wi-Fi Only", "model": ["A3354", "A3815"]},
+    { "id": 7, "name": "iPad Pro 11\" Wi-Fi + Cellular", "model": ["A2458", "A2459"]},
+    { "id": 8, "name": "iPad Pro 11\" Wi-Fi Only", "model": ["A2456", "A2457"]},
+    { "id": 9, "name": "iPad Pro 12.9\" Wi-Fi + Cellular", "model": ["A4796", "A4798"]},
+    { "id": 10, "name": "iPad Pro 12.9\" Wi-Fi Only", "model": ["A4797", "A4799"]},
+    { "id": 11, "name": "MacBook Air 13\"", "model": ["A2337", "A2338"]},
+    { "id": 12, "name": "MacBook Pro 13\"", "model": ["A3347", "A3348"]},
+    { "id": 13, "name": "MacBook Pro 14\"", "model": ["A4127", "A4128"]},
+    { "id": 14, "name": "MacBook Pro 16\"", "model": ["A4345", "A4346"]},
+    { "id": 15, "name": "iMac 24\"", "model": ["A4327", "A4326"]},
+    { "id": 16, "name": "Mac Mini", "model": ["A2942", "A2943"]},
+    { "id": 17, "name": "Mac Pro", "model": ["A1090", "A1091"]},
+    { "id": 18, "name": "Mac Studio", "model": ["A2188", "A2189"]}
+]

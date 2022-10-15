@@ -1,0 +1,70 @@
+[
+    {
+      "id": 1000,
+      "categoryName": "Mac",
+      "family": "Mac",
+      "children": [
+        {
+          "id": 1,
+          "categoryName": "MacBook Air",
+          "family": "Mac",
+          "children": []
+        },
+        {
+          "id": 2,
+          "categoryName": "MacBook Pro",
+          "family": "Mac",
+          "children": []
+        },
+        {
+          "id": 3,
+          "categoryName": "iMac",
+          "family": "Mac",
+          "children": []
+        },
+        {
+          "id": 4,
+          "categoryName": "Mac mini",
+          "family": "Mac",
+          "children": []
+        },
+        {
+          "id": 5,
+          "categoryName": "Mac Studio",
+          "family": "Mac",
+          "children": []
+        },
+        {
+          "id": 6,
+          "categoryName": "Studio Display",
+          "family": "Mac",
+          "children": []
+        }
+      ]
+    },
+    {
+      "id": 2000,
+      "categoryName": "iPad",
+      "family": "iPad",
+      "children": [
+        {
+          "id": 1,
+          "categoryName": "iPad Pro",
+          "family": "iPad",
+          "children": []
+        },
+        {
+          "id": 2,
+          "categoryName": "iPad Air",
+          "family": "iPad",
+          "children": []
+        },
+        {
+          "id": 3,
+          "categoryName": "iPad",
+          "family": "iPad",
+          "children": []
+        }
+      ]
+    }
+  ]

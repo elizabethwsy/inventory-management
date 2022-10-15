@@ -1,0 +1,50 @@
+[
+    {
+      "id": "name",
+      "rightAlign": true,
+      "disablePadding": true,
+      "label": "Product Name"
+    },
+    {
+      "id": "locationName",
+      "rightAlign": true,
+      "disablePadding": false,
+      "label": "Location"
+    },
+    {
+      "id": "modelNumber",
+      "rightAlign": false,
+      "disablePadding": false,
+      "label": "Model"
+    },
+    {
+      "id": "color",
+      "rightAlign": false,
+      "disablePadding": false,
+      "label": "Color"
+    },
+    {
+      "id": "size",
+      "rightAlign": false,
+      "disablePadding": false,
+      "label": "Capacity"
+    },
+    {
+      "id": "price",
+      "rightAlign": false,
+      "disablePadding": false,
+      "label": "Price(SGD)"
+    },
+    {
+      "id": "availability",
+      "rightAlign": false,
+      "disablePadding": false,
+      "label": "Availability"
+    },
+    {
+      "id": "view",
+      "rightAlign": false,
+      "disablePadding": false,
+      "label": " "
+    }
+  ]
