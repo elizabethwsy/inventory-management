@@ -1,0 +1,27 @@
+.divider {
+  border-bottom: 1px solid #c1c1c1;
+  padding-top: 1.5rem;
+}
+
+.location-search {
+  padding: 2rem;
+}
+
+.location-searchbar {
+  padding: 1rem 0;
+}
+
+.location-searchbar-label {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.product-name {
+  font-size: 1.2rem;
+  font-weight: 600;
+  padding: 1rem 0;
+}
+
+.selected-row {
+  background-color: #daecff !important;
+}

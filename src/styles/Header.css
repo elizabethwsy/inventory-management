@@ -1,0 +1,85 @@
+.active {
+  border-bottom: 4px solid#1D1D1F;
+}
+
+.filter-icon-label {
+  display: flex;
+}
+
+.filter-icon-text {
+  padding: 0 0.5rem;
+}
+
+.filter-icon {
+  align-self: center;
+}
+
+.filterheader {
+  padding: 0 2rem;
+  min-height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.filterheader,
+.header {
+  border-bottom: 1px solid #c1c1c1;
+}
+
+.header {
+  background-color: #f2f2f2;
+}
+
+.header-padding {
+  margin: 0 auto;
+  max-width: 980px;
+  /* padding: 0 22px; */
+  background-color: transparent;
+  min-height: 230px;
+}
+
+.heading {
+  padding-top: 2rem;
+  float: left;
+}
+
+.reset-button,
+.reset-button:hover {
+  text-transform: capitalize;
+  background-color: #1d1d1f;
+  color: #f5f5f7;
+}
+
+.searchbar-group {
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 2rem;
+  align-items: center;
+}
+
+.searchbar {
+  padding-right: 1rem;
+  font-weight: 800;
+}
+
+.search-type-button {
+  float: right;
+  text-transform: capitalize;
+  margin-top: 3rem;
+}
+
+.MuiInputBase-input {
+  height: 1rem;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #c1c1c1 !important;
+}
+
+.MuiFormLabel-root.Mui-focused {
+  color: #1d1d1f !important;
+}
+
+#product-searchbar {
+  height: 1rem;
+}
