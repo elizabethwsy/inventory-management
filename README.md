@@ -10,3 +10,6 @@ A simple inventory management application (single page)
 - Add and remove filters
 - View the details of the selected product(s)
 - Reset to start over again
+
+## Application Design
+https://tinyurl.com/elizabeth-inventory-management 
