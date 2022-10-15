@@ -1,7 +1,7 @@
 {
   "main.css": "/inventory-management/static/css/main.e02c2d12.chunk.css",
-  "main.js": "/inventory-management/static/js/main.16c51ecb.chunk.js",
-  "main.js.map": "/inventory-management/static/js/main.16c51ecb.chunk.js.map",
+  "main.js": "/inventory-management/static/js/main.bb5ae257.chunk.js",
+  "main.js.map": "/inventory-management/static/js/main.bb5ae257.chunk.js.map",
   "static/js/1.275e4a3d.chunk.js": "/inventory-management/static/js/1.275e4a3d.chunk.js",
   "static/js/1.275e4a3d.chunk.js.map": "/inventory-management/static/js/1.275e4a3d.chunk.js.map",
   "static/js/2.d0192c9e.chunk.js": "/inventory-management/static/js/2.d0192c9e.chunk.js",
@@ -11,6 +11,6 @@
   "static/media/apple.f44cbaa1.svg": "/inventory-management/static/media/apple.f44cbaa1.svg",
   "static/css/main.e02c2d12.chunk.css.map": "/inventory-management/static/css/main.e02c2d12.chunk.css.map",
   "index.html": "/inventory-management/index.html",
-  "precache-manifest.8fd4e2a26d0f202a158692bd655ada5b.js": "/inventory-management/precache-manifest.8fd4e2a26d0f202a158692bd655ada5b.js",
+  "precache-manifest.029dbd2bbcab32e19d9e3712b04a463a.js": "/inventory-management/precache-manifest.029dbd2bbcab32e19d9e3712b04a463a.js",
   "service-worker.js": "/inventory-management/service-worker.js"
 }
