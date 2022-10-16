@@ -2,7 +2,7 @@
 
 A simple single page inventory management application
 
-## Features of Application
+### Features of Application
 
 - Select and filter products
 - Find a product by doing a typeahead search
@@ -11,5 +11,8 @@ A simple single page inventory management application
 - View the details of the selected product(s)
 - Reset to start over again
 
-## Application Design
+### Application Design
 https://tinyurl.com/elizabeth-inventory-management 
+
+### Website
+https://elizabethwsy.github.io/inventory-management/
